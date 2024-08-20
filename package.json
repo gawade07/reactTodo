@@ -1,6 +1,7 @@
 {
-  "homepage": "https://gawade07.github.io/reactTodo",
+
   "name": "todo-app",
+  "homepage": "https://gawade07.github.io/reactTodo",
   "private": true,
   "version": "0.0.0",
   "type": "module",
